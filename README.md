@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/daniellopezciber/daniellopezciber/blob/main/banner1.jpg?raw=true" alt="Banner Daniel López" />
+  <img src="https://github.com/daniellopezciber/daniellopezciber/blob/main/bannergit.png?raw=true" alt="Banner Daniel López" />
 </p>
 
 # 🛡️ Daniel López - Ethical Hacker
@@ -38,4 +38,3 @@ Apasionado por la ciberseguridad y el hacking ético. Trabajo en fortalecer sist
 - 💼 [LinkedIn](https://www.linkedin.com/in/daniel-lopez--garcia/)
 
 > "La ciberseguridad no es un destino, sino un viaje constante de aprendizaje y resiliencia, porque no es una cuestión de si serás hackeado, sino de cuándo."
-
