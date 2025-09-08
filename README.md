@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/daniellopezciber/daniellopezciber/blob/main/banner1.jpg?raw=true" alt="Banner Daniel López" />
+</p>
+
 # 🛡️ Daniel López - Ethical Hacker
 
 💀 Daniel López  
