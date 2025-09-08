@@ -1,16 +1,37 @@
-## Hi there 👋
+# 🛡️ Daniel López - Ethical Hacker
 
-<!--
-**daniellopezciber/daniellopezciber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💀 Daniel López  
+Ethical Hacker | Ciberseguridad | Red Team
 
-Here are some ideas to get you started:
+🧠 Sobre mí  
+Apasionado por la ciberseguridad y el hacking ético. Trabajo en fortalecer sistemas, descubrir vulnerabilidades y compartir conocimiento. Especializado en Red Team, OSINT y seguridad ofensiva. Mi misión: hacer del entorno digital un lugar más seguro y formar a la próxima generación de profesionales en ciberseguridad.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🥇 Reconocimientos y logros  
+🎓 Certificado profesional eJPTv (INE Security)
+
+⚙️ Tecnologías y herramientas que uso
+
+### 🛡️ Herramientas de Red Team
+- Nmap  
+- Metasploit  
+- Hydra  
+- Linux  
+- Windows
+
+### 🕵️ Herramientas de OSINT
+- Shodan  
+- GoogleDorks  
+- OSINT Framework  
+- TinEye
+
+### 📊 Lenguajes más usados
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-lopez&layout=compact&theme=dark)
+
+### 📈 Estadísticas de GitHub
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=daniel-lopez&show_icons=true&theme=dark&hide=prs)
+
+🌐 Encuéntrame en:
+- 💼 [LinkedIn](https://www.linkedin.com/in/daniel-lopez--garcia/)
+
+> "La ciberseguridad no es un destino, sino un viaje constante de aprendizaje y resiliencia, porque no es una cuestión de si serás hackeado, sino de cuándo."
+
