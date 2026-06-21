@@ -75,6 +75,18 @@ Educational lab showing how NFC objects can be used in social engineering scenar
 - Linux
 - Docker basics
 
+## Certifications
+
+- **eJPT - Junior Penetration Tester** - INE Security
+- **eJPT v2 Preparation Course** - El Pinguino de Mario
+- **Anthropic Claude 101**
+- **Anthropic Claude in Action**
+- **Anthropic Claude to Work**
+- **Introduction to Cybersecurity**
+- **Marketing and content creation certificates**
+
+Full summary: [Certifications](./certifications.md)
+
 ## Currently Building
 
 - AI-assisted SOC report generator
