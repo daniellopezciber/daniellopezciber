@@ -19,6 +19,24 @@ I am focused on remote-friendly work where automation, cybersecurity and artific
 
 ## Featured Projects
 
+### Public Exposure Auditor
+Python OSINT case study for detecting publicly exposed sensitive information, organizing findings and supporting responsible disclosure notifications. Source code and sensitive detection logic are private.
+
+**Stack:** Python, OSINT, Regex, JSONL, responsible disclosure, security automation  
+**Case study:** [Public Exposure Auditor](./case-studies/public-exposure-auditor.md)
+
+### Smart Time Attendance Dashboard
+Local-first Streamlit dashboard that processes time-clock exports, detects attendance anomalies and generates management summaries without sending employee data to external AI services. Client/company details anonymized.
+
+**Stack:** Python, Pandas, SQLite, Streamlit, Plotly, local analytics  
+**Case study:** [Smart Time Attendance Dashboard](./case-studies/smart-time-attendance-dashboard.md)
+
+### AI-Assisted Fitness Companion
+Functional Android fitness app built with Kotlin, Jetpack Compose, Room and gamified XP progression. The source is private while the product is still evolving.
+
+**Stack:** Kotlin, Android, Jetpack Compose, Room, ViewModel, StateFlow  
+**Case study:** [AI-Assisted Fitness Companion](./case-studies/ai-fitness-companion.md)
+
 ### Email Security Automation with n8n + VirusTotal
 Automated workflow that reads incoming email, extracts URLs, checks them with VirusTotal and sends a security alert when a suspicious link is detected.
 
